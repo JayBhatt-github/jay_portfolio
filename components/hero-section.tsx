@@ -85,7 +85,7 @@ export function HeroSection() {
 
           <div className="flex items-center justify-center gap-8 mb-16">
             <a
-              href="https://github.com"
+              href="https://github.com/JayBhatt-github"
               target="_blank"
               rel="noopener noreferrer"
               className="text-muted-foreground hover:text-primary transition-all duration-300 p-3 hologram-card rounded-full immersive-hover"
@@ -93,7 +93,7 @@ export function HeroSection() {
               <Github className="h-6 w-6" />
             </a>
             <a
-              href="https://linkedin.com"
+              href="https://www.linkedin.com/in/jaybhatt1306/"
               target="_blank"
               rel="noopener noreferrer"
               className="text-muted-foreground hover:text-secondary transition-all duration-300 p-3 hologram-card rounded-full immersive-hover"
@@ -101,7 +101,7 @@ export function HeroSection() {
               <Linkedin className="h-6 w-6" />
             </a>
             <a
-              href="mailto:hello@example.com"
+              href="mailto:bjay7003@gmail.com"
               className="text-muted-foreground hover:text-primary transition-all duration-300 p-3 hologram-card rounded-full immersive-hover"
             >
               <Mail className="h-6 w-6" />
